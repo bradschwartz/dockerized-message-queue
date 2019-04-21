@@ -13,6 +13,7 @@ MVP:
     - [x] Golang
 - [x]  (1) Docker Container - MQ server, above connect to
 - [x]  (1) docker-compose.yml - Define containers, ports, hosts by name for containers
+
 Reach:
 - [ ]  (1) Scala/JVM Container -  pub/sub
 - [ ]  (1) Database Container - History of comms
