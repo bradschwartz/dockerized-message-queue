@@ -8,11 +8,11 @@ Goal: Run multiple Docker containers, where each will:
 ## Architecture
 
 MVP:
-- [ ]  (2) Containers -  pub/sub
-    - [ ] Python
-    - [ ] Golang
+- [x]  (2) Containers -  pub/sub
+    - [x] Python
+    - [x] Golang
 - [x]  (1) Docker Container - MQ server, above connect to
-- [ ]  (1) docker-compose.yml - Define containers, ports, hosts by name for containers
+- [x]  (1) docker-compose.yml - Define containers, ports, hosts by name for containers
 Reach:
 - [ ]  (1) Scala/JVM Container -  pub/sub
 - [ ]  (1) Database Container - History of comms

@@ -10,3 +10,7 @@ services:
     build: ./python
     depends_on:
       - mqserver
+  go:
+    build: ./go
+    depends_on:
+      - mqserver
